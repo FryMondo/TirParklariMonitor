@@ -1,0 +1,442 @@
+{
+    "gun": "2026-11-04",
+    "dilimDakika": 30,
+    "gunKapasite": 816,
+    "gunKalan": 34,
+    "gunAlinabilir": 34,
+    "dilimler": [
+        {
+            "baslangicDakika": 0,
+            "baslangic": "00:00",
+            "bitis": "00:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 30,
+            "baslangic": "00:30",
+            "bitis": "01:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 60,
+            "baslangic": "01:00",
+            "bitis": "01:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 90,
+            "baslangic": "01:30",
+            "bitis": "02:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 120,
+            "baslangic": "02:00",
+            "bitis": "02:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 150,
+            "baslangic": "02:30",
+            "bitis": "03:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 180,
+            "baslangic": "03:00",
+            "bitis": "03:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 210,
+            "baslangic": "03:30",
+            "bitis": "04:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 240,
+            "baslangic": "04:00",
+            "bitis": "04:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 270,
+            "baslangic": "04:30",
+            "bitis": "05:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 300,
+            "baslangic": "05:00",
+            "bitis": "05:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 330,
+            "baslangic": "05:30",
+            "bitis": "06:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 360,
+            "baslangic": "06:00",
+            "bitis": "06:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 390,
+            "baslangic": "06:30",
+            "bitis": "07:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 420,
+            "baslangic": "07:00",
+            "bitis": "07:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 450,
+            "baslangic": "07:30",
+            "bitis": "08:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 480,
+            "baslangic": "08:00",
+            "bitis": "08:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 510,
+            "baslangic": "08:30",
+            "bitis": "09:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 540,
+            "baslangic": "09:00",
+            "bitis": "09:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 570,
+            "baslangic": "09:30",
+            "bitis": "10:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 600,
+            "baslangic": "10:00",
+            "bitis": "10:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 630,
+            "baslangic": "10:30",
+            "bitis": "11:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 660,
+            "baslangic": "11:00",
+            "bitis": "11:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 690,
+            "baslangic": "11:30",
+            "bitis": "12:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 720,
+            "baslangic": "12:00",
+            "bitis": "12:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 750,
+            "baslangic": "12:30",
+            "bitis": "13:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 780,
+            "baslangic": "13:00",
+            "bitis": "13:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 810,
+            "baslangic": "13:30",
+            "bitis": "14:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 840,
+            "baslangic": "14:00",
+            "bitis": "14:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 870,
+            "baslangic": "14:30",
+            "bitis": "15:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 900,
+            "baslangic": "15:00",
+            "bitis": "15:30",
+            "kapasite": 17,
+            "kalan": 4,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 930,
+            "baslangic": "15:30",
+            "bitis": "16:00",
+            "kapasite": 17,
+            "kalan": 1,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 960,
+            "baslangic": "16:00",
+            "bitis": "16:30",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 990,
+            "baslangic": "16:30",
+            "bitis": "17:00",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1020,
+            "baslangic": "17:00",
+            "bitis": "17:30",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1050,
+            "baslangic": "17:30",
+            "bitis": "18:00",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1080,
+            "baslangic": "18:00",
+            "bitis": "18:30",
+            "kapasite": 17,
+            "kalan": 3,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1110,
+            "baslangic": "18:30",
+            "bitis": "19:00",
+            "kapasite": 17,
+            "kalan": 1,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1140,
+            "baslangic": "19:00",
+            "bitis": "19:30",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1170,
+            "baslangic": "19:30",
+            "bitis": "20:00",
+            "kapasite": 17,
+            "kalan": 4,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1200,
+            "baslangic": "20:00",
+            "bitis": "20:30",
+            "kapasite": 17,
+            "kalan": 1,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1230,
+            "baslangic": "20:30",
+            "bitis": "21:00",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1260,
+            "baslangic": "21:00",
+            "bitis": "21:30",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1290,
+            "baslangic": "21:30",
+            "bitis": "22:00",
+            "kapasite": 17,
+            "kalan": 3,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1320,
+            "baslangic": "22:00",
+            "bitis": "22:30",
+            "kapasite": 17,
+            "kalan": 1,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1350,
+            "baslangic": "22:30",
+            "bitis": "23:00",
+            "kapasite": 17,
+            "kalan": 2,
+            "acik": true,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1380,
+            "baslangic": "23:00",
+            "bitis": "23:30",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        },
+        {
+            "baslangicDakika": 1410,
+            "baslangic": "23:30",
+            "bitis": "24:00",
+            "kapasite": 17,
+            "kalan": 0,
+            "acik": false,
+            "kapali": false
+        }
+    ],
+    "sunucuZamani": "2026-11-02T11:39:01.797Z"
+}
